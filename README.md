@@ -43,7 +43,7 @@ b is {'key1': ['v2', 'v1'], 'key2': {'key3': 2}}
 False
 ```
 
-For more demos and information, just install it and visit the test file **test_json_compare.py** in **Your_Python_Path/Lib/site-packages/json_compare_karate/**
+For more demos and information, just install it and visit the test file **jsoncomparekaratetest.py**.
 
 ## Bug report
 
