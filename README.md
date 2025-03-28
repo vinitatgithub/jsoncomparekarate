@@ -1,4 +1,4 @@
-# json_compare
+# json-compare-karate
 
 A library to compare any json string/lists/json-like-objects primarily for tests which are using Karate Style Matching rules and templates (https://github.com/karatelabs/karate?tab=readme-ov-file#fuzzy-matching)
 
@@ -18,13 +18,13 @@ Version 1.0: First version.
 install
 
 ```shell
-pip install jsoncomparekarate
+pip install json-compare-karate
 ```
 
 or update
 
 ```shell
-pip install -U jsoncomparekarate
+pip install -U json-compare-karate
 ```
 
 a simple example
